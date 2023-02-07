@@ -1,5 +1,5 @@
 import express from "express";
-import "./products.js";
+import products from "./products.js";
 
 app.use(express.urlenconded({ extended: true }));
 const app = express();

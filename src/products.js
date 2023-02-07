@@ -116,3 +116,5 @@ console.log(
 console.log(
   productManager.deleteProduct("acef87cc-b087-49e3-9864-18e8dc7c5bdc")
 );
+
+export default productos;
